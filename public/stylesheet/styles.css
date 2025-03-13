@@ -1,0 +1,65 @@
+header{
+	background-color: #000080;
+	border-bottom: 3px solid black;
+	height: 180px;
+}
+h1{
+	font-size: 50px;
+	color: Black;
+	text-align: center;
+	margin: 0;
+}
+footer{
+	background-color: #000080;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	font-size: 8pt;
+	text-align: left;
+	color: white;
+	font-style: italic;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+#Navbar{
+	width: 100px;
+	font-size: 10pt;
+	text-align: center;
+	justify-content: space-between;
+	display: flex;
+	flex-direction:row;
+	margin: 0px;
+	padding:10px;
+	display: table-cell;
+	margin: auto property;
+}
+#Nav{
+	width: 10px;
+	font-size: 10pt;
+	text-align: center;
+	justify-content: space-between;
+	display: flex;
+	flex-direction:row;
+	margin: 0px;
+	padding:10px;
+	display: table-cell;
+	margin: auto property;
+}
+nav a{
+	display: block;
+	width: 130px;
+	margin: 10px 0 0 0;
+	padding: 5px;
+	color: blue;
+	background-color: white;
+	border: 3px solid #003311;
+	font-size: 16pt;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 2px 4px 6px #333333;
+}
+nav a:hover{
+	color: red;
+	background-color: white;
+}

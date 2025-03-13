@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="<?php echo("/public/stylesheet/styles.css");?>">
+<link rel="stylesheet" href="<?php echo("../../../public/stylesheet/styles.css");?>">
 <html lang="en">
 <header> 
 <head>
