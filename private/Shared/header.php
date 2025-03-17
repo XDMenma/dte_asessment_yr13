@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="<?php echo("../../../public/stylesheet/styles.css");?>">
+<link rel="stylesheet" href="<?php echo("../../public/stylesheet/styles.css");?>">
 <html lang="en">
 <header> 
 <head>
@@ -12,15 +12,15 @@
 <body>	
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 	
-	<img src="<?php echo("")?>">
+	<img src="<?php echo("bf943936-2268-41af-a752-0743089ef9b5_wo.png")?>">
 	
 <!-- Navigation Bar -->
 <div>
 	<nav class="Navbar">
-  		<a href="">home</a>
- 	 	<a href="">The Issue</a>
-  		<a href="">affect</a>
-		<a href="">Solution</a>
+  		<a href="../../public/index.php">home</a>
+ 	 	<a href="../../public/Main/Problem/issue.php">The Issue</a>
+  		<a href="../../public/Main/affect.php">affect</a>
+		<a href="../../public/Main/Solution.php">Solution</a>
 	</nav>
 </div>
 </body>
