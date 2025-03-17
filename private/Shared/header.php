@@ -17,7 +17,7 @@
 <!-- Navigation Bar -->
 <div>
 	<nav class="Navbar">
-  		<a href="../public/index.php">home</a>
+  		<a href="../../public/index.php">home</a>
  	 	<a href="../../public/Main/Problem/issue.php">The Issue</a>
   		<a href="../../public/Main/affect.php">affect</a>
 		<a href="../../public/Main/Solution.php">Solution</a>
