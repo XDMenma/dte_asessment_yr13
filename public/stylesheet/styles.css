@@ -3,6 +3,17 @@ header{
 	border-bottom: 3px solid black;
 	height: 180px;
 }
+header img{
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	background-color:white;
+	display:flex;
+	justify-content: center;
+	margin-left:auto;
+	margin-right:auto;
+}
 h1{
 	font-size: 50px;
 	color: Black;
@@ -68,4 +79,15 @@ nav a{
 nav a:hover{
 	color: red;
 	background-color: white;
+}
+.carousel-item active{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.carousel-item{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#carousel-inner{
+	background-color: #33a6ff;
 }

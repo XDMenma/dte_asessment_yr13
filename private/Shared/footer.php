@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="stylesheet" href="<?php echo("../../../public/stylesheet/styles.css");?>">
+<link rel="stylesheet" href="<?php echo("../../public/stylesheet/styles.css");?>">
 <footer>
 <h3>Contact Me</h3>
 	<h3>36 Dominion Street</h3>

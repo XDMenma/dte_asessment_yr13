@@ -17,14 +17,14 @@
     </div>
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-item">
-      <img src="<?php echo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpheD-BKJxEH3xPRKDc4lR74nItBvQmx9EKw&s")?>" class="d-block w-100">
+      <img src="<?php echo("https://images.squarespace-cdn.com/content/v1/63621cd0c1a00d734368b8da/9434f5a0-6e86-4b2c-9871-c77a02b33aed/parnell-house-2014-asc-architects+%286%29.jpg")?>" class="d-block w-100">
       <div class="carousel-caption d-none d-md-block">
       </div>
 	</div>
 </div>
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-item">
-      <img src="<?php echo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRpiz8Cz-LUEHV9q1iupQxSWE9UTAymDpVw&s")?>" class="d-block w-100">
+      <img src="<?php echo("https://stonewood.co.nz/wp-content/uploads/The-Best-House-Designs-for-Small-Houses.jpg")?>" class="d-block w-100">
       <div class="carousel-caption d-none d-md-block">
 	  </div>
 	</div>
