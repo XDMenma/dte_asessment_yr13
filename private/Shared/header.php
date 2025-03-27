@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="<?php echo("../../public/stylesheet/styles.css");?>">
+<link rel="stylesheet" href="<?php echo("http://localhost/public/stylesheet/styles.css");?>">
 <html lang="en">
 <header> 
 <head>
@@ -12,15 +12,14 @@
 <body>	
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
-<img src="<?php echo("https://prodcdn.sporty.co.nz/cms/11319/71566/1430582/bf943936-2268-41af-a752-0743089ef9b5_wo.png?t=638168090966270000")?>">
-
 <!-- Navigation Bar -->
 <div>
 	<nav class="Navbar">
-  		<a href="../../public/home.php">home</a>
- 	 	<a href="../../public/Main/Problem/issue.php">The Issue</a>
-  		<a href="../../public/Main/affect.php">affect</a>
-		<a href="../../public/Main/solution.php">Solution</a>
+  		<a href="http://localhost/public/home.php">home</a>
+ 	 	<a href="http://localhost/public/Main/Problem/issue.php">The Issue</a>
+		<img src="<?php echo("https://prodcdn.sporty.co.nz/cms/11319/71566/1430582/bf943936-2268-41af-a752-0743089ef9b5_wo.png?t=638168090966270000")?>">
+  		<a href="http://localhost/public/Main/affect.php">affect</a>
+		<a href="http://localhost/public/Main/solution.php">Solution</a>
 	</nav>
 </div>
 </body>
