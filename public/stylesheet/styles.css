@@ -9,7 +9,7 @@ h3{
 	font-size: 50;
 	color: Black;
 	display:flex;
-	justify-content:left;
+	text-align: center;
 	margin: 0;
 }
 h2{
@@ -18,9 +18,10 @@ h2{
 	display:flex;
 	margin: 0;
 }
+
 /*Footer*/
 footer{
-	background-color: #000080;
+	background-color: #5396ca;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 	font-size: 3pt;
@@ -37,7 +38,7 @@ footer{
 
 /*Header*/
 header{
-	background-color: #000080;
+	background-color: #5396ca;
 	border-bottom: 3px solid black;
 	height: 180px;
 }
@@ -46,6 +47,7 @@ header img{
 	border-top: 2px solid black;
 	border-right: 2px solid black;
 	border-left: 2px solid black;
+	background-color: white;
 	display:flex;
 	justify-content: center;
 }
@@ -107,15 +109,24 @@ nav a:hover{
 	padding-left: 200px;
 	padding-right: 200px;
 }
-.carousel-slide{
-	background-color: #33a6ff;
+.carousel{
+	background-color: #5c6768;
 }
+.Information{
+	background-color: white;
+	padding: 0%;
+}
+
 /*Issue page*/
-#Poor img{
+.Poor{
 	border-bottom: 2px solid black;
 	border-top: 2px solid black;
 	border-right: 2px solid black;
 	border-left: 2px solid black;
 	display:flex;
 	justify-content: center;
+}
+.Info{
+	background-color: #a1bbbd;
+	border-bottom: black;
 }
